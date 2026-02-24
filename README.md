@@ -15,12 +15,7 @@
   ### Connect with me: 
   
   <p>
-  <a href"https://www.instagram.com/lucaszzxs">
-  <img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-<a href="www.linkedin.com/in/lucas-moraes-8228001a3">
-<img align="left" alt="LinkedIn" width="83" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+
 
 
 

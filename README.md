@@ -1,4 +1,4 @@
- ### Hi there 👋
+ ### Olá Sou Dev Front-End 👨‍💻
 <br>
 
  I'm Lucas Henrique, a front-end programmer currently learning and creating projects with:
@@ -22,7 +22,7 @@
 <div> 
   <a href="https://instagram.com/Lucaszzxs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucashenriquemoraees@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="[https://www.linkedin.com/in/Lucaszzxs](https://www.linkedin.com/in/lucaszzxs/)-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[https://www.linkedin.com/in/Lucaszzxs-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 
